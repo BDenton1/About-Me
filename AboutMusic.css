@@ -1,0 +1,16 @@
+body {
+background-color: black;
+
+}
+h2 {
+text-align: center;
+color: rgb(80,30,150);
+}
+#Metallica, #KidCudi, #DeadMau5  {
+max-width = 50% ;
+height = auto;
+}
+h3 + p {
+text-indent: 30px;
+color: white;
+}
